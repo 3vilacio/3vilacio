@@ -17,11 +17,11 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-<i>Posso não ser o melhor que você busca, mas garanto que sempre farei o meu melhor, como Pessoa e Profissional.</i>
+<i>Posso não ser o melhor que você busca, mas garanto que sempre farei o meu melhor, como Pessoa e Profissional.</i><br>
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{3vilacio}/count.svg" /></p> 
 <br>
 </div>
