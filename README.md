@@ -16,4 +16,4 @@
 </div><br/>
 
 <i>Posso não ser o melhor que você busca, mas garanto que sempre farei o meu melhor, como Pessoa e Profissional.</i>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
