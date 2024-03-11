@@ -2,12 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dcdcdc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Carlos+Evilacio;Sejam+Bem++-++Vindos!)](https://git.io/typing-svg)
 
+<p align="center">
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-evilacio/)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlos.evilacio/)
+    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/carlos.evilacio.1)
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-evilacio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlos.evilacio/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/carlos.evilacio.1)
 
-### Studying in this moment:
+### Estudando no momento:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
