@@ -19,3 +19,9 @@
 
 <i>Posso não ser o melhor que você busca, mas garanto que sempre farei o meu melhor, como Pessoa e Profissional.</i>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{3vilacio}/count.svg" /></p> 
+<br>
+</div>
