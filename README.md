@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dcdcdc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Carlos+Evilacio;Sejam+Bem-+Vindos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dcdcdc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Carlos+Evilacio;Sejam+Bem+-Vindos!)](https://git.io/typing-svg)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-evilacio/)
