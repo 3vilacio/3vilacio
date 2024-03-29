@@ -22,7 +22,7 @@
 
 
 <div align="center">
-<br><p align="centre"><b><strong>Visitantes</strong></b></p>  
+<br><p align="centre"><b><i><strong>Visitantes</strong></i>></b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{3vilacio}/count.svg" /></p> 
 <br>
 </div>
