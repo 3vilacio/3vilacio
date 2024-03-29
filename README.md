@@ -18,7 +18,7 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-<br><i>Posso não ser o melhor que você busca, mas garanto que sempre farei o meu melhor, como Pessoa e Profissional.</i><br>
+<br><i>color:#65b307Posso não ser o melhor que você busca, mas garanto que sempre farei o meu melhor, como Pessoa e Profissional.</i><br>
 
 
 <div align="center">
