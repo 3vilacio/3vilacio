@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/carlos-evilacio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div><br><br>
 
-### <strong><font color="65b307">Estudando no momento:</font></strong>
+### <strong>Estudando no momento:</strong>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,7 +18,7 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-<br><i><strong>Posso não ser o melhor que você busca, mas garanto que sempre farei o meu melhor, como Pessoa e Profissional.</strong></i><br>
+<br><i><strong><font color=#65b307>Posso não ser o melhor que você busca, mas garanto que sempre farei o meu melhor, como Pessoa e Profissional.</font></strong></i><br>
 
 
 <div align="center">
